@@ -1,0 +1,86 @@
+html body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.but {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border-radius: 52px;
+  cursor: pointer;
+  font-size: 20px;
+}
+button {
+  border: none;
+}
+#uni {
+  width: 138px;
+}
+
+.row input {
+  width: 291px;
+  font-size: 45px;
+  margin: 0;
+  padding: 15px 0px;
+  border-radius: 15px;
+  border: none;
+  /* background-color: rgb(179, 250, 72);*/
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+}
+
+.s {
+  background-color: rgba(255, 255, 255, 0.46);
+}
+.s:hover {
+  background-color: rgba(255, 255, 255, 0.674);
+}
+
+.t {
+  background-color: rgba(103, 102, 102, 0.552);
+  color: white;
+}
+.t:hover {
+  background-color: rgba(118, 118, 118, 0.271);
+  color: white;
+}
+
+.r {
+  background-color: rgb(255, 132, 0);
+  color: white;
+}
+.r:hover {
+  background-color: rgb(255, 94, 0);
+  color: white;
+}
+
+footer{
+  margin-top: 40px;
+  color: white;
+}
+
+#new{
+  background-color: rgb(255, 94, 0);
+  
+}
+#new:hover{
+  background-color: rgb(255, 77, 0);
+  
+}
