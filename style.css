@@ -16,6 +16,7 @@ body {
 
 .row {
   margin: 8px 0;
+  user-select: none;
 }
 
 .but {
@@ -25,6 +26,7 @@ body {
   border-radius: 52px;
   cursor: pointer;
   font-size: 20px;
+  user-select: none;
 }
 button {
   border: none;
@@ -44,6 +46,8 @@ button {
   background-color: black;
   color: white;
   border: 1px solid white;
+  user-select: none;
+  text-align: right;
 }
 
 .s {
