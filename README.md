@@ -1,5 +1,6 @@
 # Calculator.i
 A basic calculator created using HTML, CSS and JavaScript.
 
-![Screenshot (551)](https://user-images.githubusercontent.com/114985411/222535898-d7ff8873-72f1-432a-a380-04c6cc7cffe7.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/114985411/231563730-e2ec45af-165e-4356-a0ce-be2406f7f396.png)
+
 
